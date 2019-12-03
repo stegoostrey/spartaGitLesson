@@ -1,3 +1,1 @@
 This is the first line in the file. git lesson.
-
-This is the second line in the file. Updated test file.
